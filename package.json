@@ -87,7 +87,7 @@
     "phantomjs-polyfill-find": "ptim/phantomjs-polyfill-find",
     "requirejs": "2.3.5",
     "rework-npm-cli": "0.1.3",
-    "uglifycss": "0.0.27",
+    "uglifycss": "0.0.29",
     "watchify": "3.9.0"
   },
   "snyk": true
