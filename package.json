@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "angular": "1.6.8",
-    "angular-animate": "1.6.8",
+    "angular-animate": "1.7.7",
     "angular-route": "1.6.8",
     "angular-ui-bootstrap": "2.5.6",
     "angular-xeditable": "0.8.1",
