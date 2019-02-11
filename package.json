@@ -43,7 +43,7 @@
     "angular-animate": "1.6.8",
     "angular-route": "1.6.8",
     "angular-ui-bootstrap": "2.5.6",
-    "angular-xeditable": "0.8.1",
+    "angular-xeditable": "0.9.0",
     "bootstrap": "3.3.7",
     "electron": "1.7.9",
     "electron-debug": "1.4.0",
